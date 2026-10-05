@@ -1,0 +1,9 @@
+downloads/
+*.deb
+*.rpm
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.zip
+__pycache__/

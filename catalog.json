@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "artifacts": [
+    {
+      "id": "linux-x86_64-deb-9.0.0-24093",
+      "product": "CAJViewer",
+      "version": "9.0.0-24093",
+      "os": "linux",
+      "arch": "x86_64",
+      "format": "deb",
+      "variant": "standard",
+      "release_tag": "linux-9.0.0-24093",
+      "asset": "cajviewer-9.0.0-24093-linux-x86_64.deb",
+      "size_bytes": 235087704,
+      "sha256": "3142c633d74dcf34ebaca9b7653f88ad3619f0b7a6cb689487b6cc583ec926d3",
+      "source_url": "https://download.cnki.net/cajviewer_9.0_amd64.deb",
+      "source_acquired_on": "2026-09-29",
+      "mirrored_on": "2026-10-05",
+      "download_url": "https://github.com/rwv/cajviewer-binaries/releases/download/linux-9.0.0-24093/cajviewer-9.0.0-24093-linux-x86_64.deb",
+      "license": "LicenseRef-CAJViewer-Proprietary",
+      "verification": "Matches previously pinned installer; dpkg metadata checked; same bytes used by Linux viewer tests."
+    }
+  ]
+}
